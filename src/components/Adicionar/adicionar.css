@@ -1,0 +1,95 @@
+.CorpoADD{
+    width: 90%;
+    max-width: 400px;
+    margin: auto;
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+}
+#area{
+    width: 100%;
+    display: flex;
+    margin: auto;
+}
+.modeloDiv{
+    width: 100%;
+    display: block;
+}
+.modeloDiv label{
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+    text-align: start;
+}
+.modeloDiv label p{
+    font-size: 0.8rem;
+    margin-bottom: 5px;
+}
+.modeloDiv input{
+    width: 100%;
+    margin-left: auto;
+    height: 35px;
+    border-radius: 7px;
+    border: 1px solid gray;
+    padding-left: 5px;
+}
+.formDiv{
+    width: 100%;
+    margin: auto;
+}
+.formImg{
+    width: 100%;
+    display: flex;
+}
+.formImg img{
+    width: 200px;
+}
+.formButton{
+    width: 100%;
+    margin-top: 20px;   
+}
+.formButton input{
+    width: 100%;
+    cursor: pointer;
+    font-size: medium;
+    margin-left: auto;
+    padding: 15px;
+    border: 2px solid #EBEBEB;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #428EFF;
+}
+.formButton input:hover{
+    background-color: #8AB4F8;
+    border: 2px solid black;
+}
+
+.inputFile{
+    width: 100%;
+    font-size: medium;
+    margin-top: auto;
+    cursor: pointer;
+    padding: 10px;
+    border: 2px solid #EBEBEB;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #ffd258;
+    text-align: center;
+    z-index: 6;
+}
+.inputFile:hover{
+    background-color: #ffbb00;
+    border:  2px solid black;    
+    cursor: pointer;
+
+}
+
+
+input[type="file"] {
+    display: none;
+}
+
+.BotaoImg{
+    display: flex;
+    width: 100%;
+}

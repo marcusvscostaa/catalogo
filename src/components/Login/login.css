@@ -1,0 +1,120 @@
+*{
+    color: rgb(37, 37, 37);
+}
+.divAll{
+    height: 100vh;
+    display: flex;
+}
+.CorpoLg{
+    width: 90%;
+    max-width: 320px;
+    margin: auto;
+    background-color: white;
+    border-radius: 7px;
+    padding: 20px;
+    box-shadow: 1px 1px 10px 0 rgb(68, 68, 68);
+}
+.CorpoLg h1{
+    font-size: 2.4rem;
+    font-weight: 300;
+    margin-bottom: 20px;
+    font-family: "Roboto", sans-serif;
+}
+.CorpoLg a{
+    margin-left: auto;
+}
+#MostraSenha{
+    width: 100%;
+    text-align: end;
+    font-size: 0.9rem;
+}
+#area{
+    width: 100%;
+    display: flex;
+    margin: auto;
+}
+.modeloDivLg{
+    width: 100%;
+    display: block;
+}
+.modeloDivLg label{
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+    text-align: start;
+}
+.modeloDivLg label p{
+    font-size: 0.8rem;
+    margin-right: auto;
+    margin-bottom: 3px;
+}
+.modeloDivLg input{
+    width: 100%;
+    margin-left: auto;
+    border-radius: 7px;
+    height: 35px;
+    padding-left: 5px;
+    border: 1px solid rgb(70, 69, 69);
+}
+.formDiv{
+    width: 100%;
+    margin: auto;
+}
+.formImg{
+    width: 100%;
+    display: flex;
+}
+.formImg img{
+    width: 200px;
+}
+.formButtonLg{
+    width: 100%;
+    margin-top: 20px;   
+}
+.formButtonLg input{
+    width: 100%;
+    cursor: pointer;
+    font-size: large;
+    margin-left: auto;
+    padding: 10px;
+    cursor: pointer;
+    border: 2px solid #EBEBEB;
+    text-align: center;
+    border-radius: 7px;
+    background-color: #297af3;
+    color: white;
+}
+.formButtonLg input:hover{
+    background-color: #428bf8;
+    border: 2px solid rgb(70, 69, 69);
+}
+
+.inputFile{
+    width: 100%;
+    font-size: medium;
+    margin-top: auto;
+    cursor: pointer;
+    padding: 10px;
+    border: 2px solid #EBEBEB;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #ffd258;
+    text-align: center;
+    z-index: 6;
+}
+.inputFile:hover{
+    background-color: #ffbb00;
+    border:  2px solid black;    
+    cursor: pointer;
+
+}
+
+
+input[type="file"] {
+    display: none;
+}
+
+.BotaoImg{
+    display: flex;
+    width: 100%;
+}

@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+  }
+  p, h1, h2, h3, h4{
+    color: rgb(39, 39, 39);
+  }
+  
+  html, body {
+  
+    background-color: #EBEBEB;
+  }
+  
+  .App {
+    text-align: center;
+  }
+  
+  .App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  
+  .cabecalho{
+    width: 100%;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    margin: auto;
+  }
+  .cabecalho h1{
+    width: 350px;
+    padding: 15px;
+    color: white;
+    background-color: #404652;
+    box-shadow: 1px 1px 10px 1px rgb(56, 56, 56);
+    border: 2px solid white;
+    border-radius: 10px;
+    margin: auto;
+  }
+
+  .Corpo{
+    margin-top: -100px;
+    max-width: 90%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20%,1fr));
+  }
+  
+  .Container{
+    max-width: 400px;
+    max-height: 500px;
+    border-radius: 10px;
+    margin: auto 10px 0 10px;
+    height: 90%;
+    border: 1px solid rgb(189, 189, 189);
+    margin-bottom: 40px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    z-index: 1;
+    box-shadow: 1px 1px 5px 1px rgb(185, 185, 185);
+  }
+
+  .Container:hover{
+    box-shadow: 2px 2px 10px 2px rgb(161, 161, 161);
+  }
+  
+  .ContainterImg{
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: auto;
+  }
+  .ContainterImg img{
+    margin: auto;
+    width: 100%;
+    max-height:350px;
+    margin-bottom: 40px;
+  }
+  
+  .TextComponet{
+    margin-top: auto;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .ContainerName{
+    width: 90%;
+    text-align: start;
+    margin: auto;
+  }
+  
+  .ContainerName p{
+    font-weight: 400;
+    font-size: 1.5rem;
+  }
+
+  .ContainerName h1{
+    font-size: 1rem;
+    margin-bottom: 5px;
+    font-weight: 400;
+  }
+
+  .ContainerButton{
+    width: 100%;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  
+  }
+  .ContainerButton button{
+    width: 90%;
+    height: 40px;
+    margin: auto;
+    border-radius: 5px;
+    background-color: #3483fa;
+    border: none;
+    color: white;
+  }
+  
+  .ContainerButton button:hover{
+    background-color: #1259C3;
+    cursor: pointer;
+  }
+  
+  
+
+  

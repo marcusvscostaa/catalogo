@@ -1,0 +1,125 @@
+.CorpoEDT{
+    width: 90%;
+    max-width: 400px;
+    margin: auto;
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+}
+#areaEDT{
+    width: 100%;
+    display: flex;
+    margin: auto;
+}
+.modeloDivEDT{
+    width: 100%;
+    display: block;
+}
+.modeloDivEDT label{
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+    text-align: start;
+}
+.modeloDivEDT label p{
+    font-size: 0.8rem;
+    margin-bottom: 5px;
+}
+.modeloDivEDT input{
+    width: 100%;
+    margin-left: auto;
+    height: 35px;
+    border-radius: 7px;
+    border: 1px solid gray;
+    padding-left: 5px;
+}
+.formDivEDT{
+    width: 100%;
+    margin: auto;
+}
+.formImgEDT{
+    width: 100%;
+    display: flex;
+}
+.formImgEDT img{
+    width: 200px;
+}
+.formButtonEDT{
+    width: 100%;
+    margin-top: 20px;
+    
+}
+.formButtonEDT input{
+    width: 100%;
+    cursor: pointer;
+    font-size: medium;
+    margin-left: auto;
+    padding: 15px;
+    border: 2px solid #EBEBEB;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #fac83e;
+}
+.formButtonEDT input:hover{
+    background-color: #FFBB01;
+    border: 2px solid black;
+}
+
+.inputFileEDT{
+    width: 100%;
+    font-size: medium;
+    margin-top: auto;
+    cursor: pointer;
+    padding: 10px;
+    border: 2px solid #EBEBEB;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #85b5fc;
+    text-align: center;
+    z-index: 6;
+}
+.inputFileEDT:hover{
+    background-color: #428EFF;
+    border:  2px solid black;    
+    cursor: pointer;
+}
+
+
+input[type="file"] {
+    display: none;
+}
+
+.divTopEDT{
+    width: 100%;
+    max-width: 400px;
+    margin: auto;
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.divTituloEDT{
+    margin-right: auto;
+    text-align: start;
+}
+.divTituloEDT h1{
+    font-size: 1.7rem;
+    font-weight: 500;
+}
+.divSairEDT{
+    margin-left: auto;
+}
+#sairEDT{
+    width: 90px;
+    padding: 10px;
+    color: white;
+    cursor: pointer;
+    border: 2px solid #EBEBEB;
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgb(58, 58, 58);
+}
+#sairEDT:hover{
+    background-color: rgb(41, 41, 41);
+    border: 2px solid rgb(252, 252, 255);
+}
