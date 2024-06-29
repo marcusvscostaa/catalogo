@@ -8,11 +8,11 @@
 
 <h2>Página de Detalhes</h2>
 <br/>
-<img src="https://github.com/marcusvscostaa/catalogo/blob/master/Imagem%20do%20projeto/P%C3%A1gina%20Principal.png" width="500px" />
+<img src="https://github.com/marcusvscostaa/catalogo/blob/master/Imagem%20do%20projeto/P%C3%A1gina%20de%20Detalhes.png" width="500px" />
 
 <h2>Página de Login</h2>
 <br/>
-<img src="https://github.com/marcusvscostaa/catalogo/blob/master/Imagem%20do%20projeto/P%C3%A1gina%20Principal.png" width="500px" />
+<img src="https://github.com/marcusvscostaa/catalogo/blob/master/Imagem%20do%20projeto/P%C3%A1gina%20de%20Login.png" width="500px" />
 
 <h2>Página Administração</h2>
 <br/>
@@ -20,7 +20,7 @@
 
 <h2>Pagina Adicionar Modelo</h2>
 <br/>
-<img src="https://github.com/marcusvscostaa/catalogo/blob/master/Imagem%20do%20projeto/P%C3%A1gina%20Principal.png" width="500px" />
+<img src="https://github.com/marcusvscostaa/catalogo/blob/master/Imagem%20do%20projeto/P%C3%A1gina%20de%20Adicionar%20novo%20modelo.png" width="500px" />
 
 <h2>Pagina Editar Modelo</h2>
 <br/>
