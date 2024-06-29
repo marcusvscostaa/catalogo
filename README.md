@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Projeto de Catálogo de produtos
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Imagens da tela do projeto:
+Página Inicinal
+[<img src="https://github.com/marcusvscostaa/catalogo/blob/master/Imagem%20do%20projeto/P%C3%A1gina%20Principal.png" />]
+
 
 ## Available Scripts
 
