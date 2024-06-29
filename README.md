@@ -1,8 +1,9 @@
 # Projeto de Catálogo de produtos
 
-# Imagens da tela do projeto:
+<h2>Imagens da tela do projeto:</h2>
+
 Página Inicinal
-[<img src="https://github.com/marcusvscostaa/catalogo/blob/master/Imagem%20do%20projeto/P%C3%A1gina%20Principal.png" />]
+<img src="https://github.com/marcusvscostaa/catalogo/blob/master/Imagem%20do%20projeto/P%C3%A1gina%20Principal.png" width="400px" />
 
 
 ## Available Scripts
