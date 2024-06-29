@@ -5,7 +5,7 @@ import './Detalhes.css'
 export default function Detalhes(){
     return(
         <div>
-            <Link to="/">Inicio</Link>
+            <Link  to="/"><button id="botaoInicio"> Inicio </button></Link>
             <Corpo />
         </div>      
     )

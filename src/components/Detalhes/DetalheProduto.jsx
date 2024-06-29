@@ -27,11 +27,11 @@ export default function DetalheProduto(props){
                         <img src={modelo.imagem} alt="">{props.id}</img>
                     </div>
                 </div>
-                <div>
-                    <h1>{modelo.modelo}</h1>
+                <div className='nomeValor'>
+                    <h2>{modelo.modelo}</h2>
                     
-                    <p>{modelo.valor}</p>
-                    </div>
+                    <p>R$: {modelo.valor}</p>
+                </div>
             </div>
         </div>
     )
