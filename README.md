@@ -2,8 +2,30 @@
 
 <h2>Imagens da tela do projeto:</h2>
 
-Página Inicinal
-<img src="https://github.com/marcusvscostaa/catalogo/blob/master/Imagem%20do%20projeto/P%C3%A1gina%20Principal.png" width="400px" />
+<h2>Pagina Inicial</h2>
+<br/>
+<img src="https://github.com/marcusvscostaa/catalogo/blob/master/Imagem%20do%20projeto/P%C3%A1gina%20Principal.png" width="500px" />
+
+<h2>Página de Detalhes</h2>
+<br/>
+<img src="https://github.com/marcusvscostaa/catalogo/blob/master/Imagem%20do%20projeto/P%C3%A1gina%20Principal.png" width="500px" />
+
+<h2>Página de Login</h2>
+<br/>
+<img src="https://github.com/marcusvscostaa/catalogo/blob/master/Imagem%20do%20projeto/P%C3%A1gina%20Principal.png" width="500px" />
+
+<h2>Página Administração</h2>
+<br/>
+<img src="https://github.com/marcusvscostaa/catalogo/blob/master/Imagem%20do%20projeto/P%C3%A1gina%20de%20Administra%C3%A7%C3%A3o.png" width="500px" />
+
+<h2>Pagina Adicionar Modelo</h2>
+<br/>
+<img src="https://github.com/marcusvscostaa/catalogo/blob/master/Imagem%20do%20projeto/P%C3%A1gina%20Principal.png" width="500px" />
+
+<h2>Pagina Editar Modelo</h2>
+<br/>
+<img src="https://github.com/marcusvscostaa/catalogo/blob/master/Imagem%20do%20projeto/P%C3%A1gina%20de%20Editar%20Modelo.png" width="500px" />
+
 
 
 ## Available Scripts
